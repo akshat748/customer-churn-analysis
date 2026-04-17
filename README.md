@@ -13,23 +13,22 @@ Python, Pandas, Seaborn, Scikit-learn
 ## Key Insights
 - Contract type strongly affects churn
 - High charges increase churn
-
 ## 📷 Project Preview
 
 ### 📊 Churn Distribution
-![Churn](images/churn_distribution.png)
+![Churn](Images/churn_distribution.png)
 
 ### 📊 Contract vs Churn
-![Contract](images/contract_churn.png)
+![Contract](Images/contract_churn.png)
 
 ### 📊 CLV vs Churn
-![CLV](images/clv_churn.png)
+![CLV](Images/clv_churn.png)
 
 ### 🤖 Confusion Matrix
-![CM](images/confusion_matrix.png)
+![CM](Images/confusion_matrix.png)
 
 ### 📊 Feature Importance
-![FI](images/feature_importance.png)
+![FI](Images/feature_importance.png)
 
 ### 📈 ROC Curve
-![ROC](images/roc_curve.png)
+![ROC](Images/roc_curve.png)
